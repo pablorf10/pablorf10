@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👨‍💻 Pablo Ríos Furniet
 
-<!--
-**pablorf10/pablorf10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador Web Full Stack | PHP puro · MySQL · JavaScript · HTML/CSS**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Soy desarrollador web con experiencia en la creación de aplicaciones a medida utilizando **PHP sin frameworks**, consultas avanzadas en **MySQL**, y tecnologías frontend como **HTML5**, **CSS3**, **Bootstrap** y **JavaScript vanilla**. Me especializo en soluciones funcionales, bien estructuradas y pensadas para durar.
+
+💡 Valoro el código limpio, el rendimiento y la organización. Trabajo desde la idea hasta el despliegue, incluyendo pruebas, diseño responsive y carga eficiente de datos.
+
+---
+
+## 🛠️ Tech Stack
+```bash
+🧠 Lenguajes:     PHP puro · JavaScript · SQL  
+💻 Frontend:      HTML · CSS · Bootstrap  
+🛢️ Bases de datos: MySQL  
+📡 APIs:          REST (uso básico e integración)  
+🧪 Herramientas:  Git · Plesk · FileZilla · phpMyAdmin · XAMPP
