@@ -10,8 +10,8 @@
 
 ---
 
-## 🛠️ Tech Stack
-```bash
+## 🛠️ Tech Stack 
+
 🧠 Lenguajes:     PHP puro · JavaScript · SQL  
 💻 Frontend:      HTML · CSS · Bootstrap  
 🛢️ Bases de datos: MySQL  
