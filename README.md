@@ -17,3 +17,13 @@
 🛢️ Bases de datos: MySQL  
 📡 APIs:          REST (uso básico e integración)  
 🧪 Herramientas:  Git · Plesk · FileZilla · phpMyAdmin · XAMPP
+
+## 💼 Proyectos Destacados
+
+### 🧩 admin_dashboard
+Panel administrativo interno para empresas. Incluye:
+- Sistema de login seguro con recuperación por correo
+- Gestión de usuarios, departamentos, documentos, roles
+- Correos automáticos configurables
+- PHP puro, MySQL, Bootstrap y JS
+🔗 [Ver repositorio](https://github.com/pablorf10/admin_dashboard)
