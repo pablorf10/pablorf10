@@ -20,7 +20,7 @@
 
 ## 💼 Proyectos Destacados
 
-### 🧩 Admi Dashboard
+### 🧩 Admin Dashboard
 🔗 [Ver repositorio](https://github.com/pablorf10/admin_dashboard)
 
 Panel administrativo interno para empresas. Incluye:
